@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.asus.alteracionesdentales" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:noHistory="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name=".inicio" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".diente" >
+        </activity>
+        <activity android:name=".menu" >
+        </activity>
+        <activity android:name=".microdoncia" >
+        </activity>
+        <activity android:name=".macrodoncia" >
+        </activity>
+        <activity android:name=".anodoncia" >
+        </activity>
+        <activity android:name=".hipodoncia" >
+        </activity>
+        <activity android:name=".oligodoncia" >
+        </activity>
+        <activity android:name=".supernumerarios" >
+        </activity>
+        <activity android:name=".dentaduraprematura" >
+        </activity>
+        <activity android:name=".dientesnatales" >
+        </activity>
+        <activity android:name=".dientesneonatales" >
+        </activity>
+        <activity android:name=".erupcionretenida" >
+        </activity>
+        <activity android:name=".geminacion" >
+        </activity>
+        <activity android:name=".fusion" >
+        </activity>
+        <activity android:name=".concresencia" >
+        </activity>
+        <activity android:name=".hipercementosis" >
+        </activity>
+        <activity android:name=".dislaceracion" >
+        </activity>
+        <activity android:name=".taurodontismo" >
+        </activity>
+        <activity android:name=".dienteinvaginado" >
+        </activity>
+        <activity android:name=".dienteevaginado" >
+        </activity>
+        <activity android:name=".raices" >
+        </activity>
+        <activity android:name=".perlas" >
+        </activity>
+        <activity android:name=".estructuraintro" >
+        </activity>
+        <activity android:name=".hipoplasiaintro" >
+        </activity>
+        <activity android:name=".hipoplasiafocal" >
+        </activity>
+        <activity android:name=".hipoplasiageneral" >
+        </activity>
+        <activity android:name=".amilogenesis" >
+        </activity>
+        <activity android:name=".hipoplastico" >
+        </activity>
+        <activity android:name=".hipalcificado" >
+        </activity>
+        <activity android:name=".hipomaduracion" >
+        </activity>
+        <activity android:name=".displasia" >
+        </activity>
+        <activity android:name=".displasia2" >
+        </activity>
+        <activity android:name=".dentinogenesis" >
+        </activity>
+        <activity android:name=".dentinogenesis1" >
+        </activity>
+        <activity android:name=".dentinogenesis2" >
+        </activity>
+        <activity android:name=".dentinogenesis3" >
+        </activity>
+        <activity android:name=".quiz" >
+        </activity>
+        <activity android:name=".Facil" >
+        </activity>
+        <activity android:name=".Medio" >
+        </activity>
+        <activity android:name=".Dificil" >
+        </activity>
+        <activity android:name=".esmaltedental" >
+        </activity>
+        <activity android:name=".pulpadental" >
+        </activity>
+        <activity android:name=".cemento" >
+        </activity>
+        <activity android:name=".dentina" >
+        </activity>
+        <activity android:name=".ligamentoperiodontal" >
+        </activity>
+    </application>
+
+</manifest>

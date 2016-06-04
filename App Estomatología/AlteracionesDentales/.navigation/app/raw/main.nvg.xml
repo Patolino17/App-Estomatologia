@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.dentinogenesis3"/>
+      <point      
+        x = "8931"      
+        y = "3357"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.macrodoncia"/>
+      <point      
+        x = "500"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.dentinogenesis"/>
+      <point      
+        x = "5394"      
+        y = "3329"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.dentinogenesis2"/>
+      <point      
+        x = "7781"      
+        y = "3348"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.diente"/>
+      <point      
+        x = "1800"      
+        y = "1260"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.dienteevaginado"/>
+      <point      
+        x = "5573"      
+        y = "2589"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.dentinogenesis1"/>
+      <point      
+        x = "6564"      
+        y = "3338"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.dientesnatales"/>
+      <point      
+        x = "5700"      
+        y = "680"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.dentaduraprematura"/>
+      <point      
+        x = "4400"      
+        y = "680"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.taurodontismo"/>
+      <point      
+        x = "7948"      
+        y = "1646"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.supernumerarios"/>
+      <point      
+        x = "8300"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.perlas"/>
+      <point      
+        x = "7939"      
+        y = "2486"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.concresencia"/>
+      <point      
+        x = "4372"      
+        y = "1706"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.hipoplasiageneral"/>
+      <point      
+        x = "980"      
+        y = "2131"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.oligodoncia"/>
+      <point      
+        x = "7000"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.inicio"/>
+      <point      
+        x = "500"      
+        y = "1260"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.hipomaduracion"/>
+      <point      
+        x = "2188"      
+        y = "3914"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.estructuraintro"/>
+      <point      
+        x = "499"      
+        y = "2112"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.hipercementosis"/>
+      <point      
+        x = "5573"      
+        y = "1714"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.displasia"/>
+      <point      
+        x = "3169"      
+        y = "3329"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.displasia2"/>
+      <point      
+        x = "4244"      
+        y = "3310"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.menu"/>
+      <point      
+        x = "3100"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.hipoplastico"/>
+      <point      
+        x = "122"      
+        y = "3819"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.dientesneonatales"/>
+      <point      
+        x = "7000"      
+        y = "680"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.hipodoncia"/>
+      <point      
+        x = "5700"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.geminacion"/>
+      <point      
+        x = "3129"      
+        y = "960"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.dislaceracion"/>
+      <point      
+        x = "6739"      
+        y = "1689"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.hipoplasiafocal"/>
+      <point      
+        x = "2480"      
+        y = "2669"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.raices"/>
+      <point      
+        x = "6799"      
+        y = "2538"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.amilogenesis"/>
+      <point      
+        x = "198"      
+        y = "2980"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.erupcionretenida"/>
+      <point      
+        x = "8300"      
+        y = "680"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.anodoncia"/>
+      <point      
+        x = "4400"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.microdoncia"/>
+      <point      
+        x = "1800"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.hipoplasiaintro"/>
+      <point      
+        x = "1424"      
+        y = "2084"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.hipalcificado"/>
+      <point      
+        x = "1141"      
+        y = "3867"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.dienteinvaginado"/>
+      <point      
+        x = "4270"      
+        y = "2555"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.asus.alteracionesdentales.fusion"/>
+      <point      
+        x = "3155"      
+        y = "1706"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
